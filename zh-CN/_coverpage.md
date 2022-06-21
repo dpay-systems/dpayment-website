@@ -6,7 +6,7 @@
 > 
 > "PayPal" in Web3
 
-[开始](zh-CN/getStart)
+[ 了 解 更 多 ](zh-CN/getStart)
 
 
 
