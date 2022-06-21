@@ -1,0 +1,31 @@
+:root {
+    --base-font-size: 14px;
+    --theme-color   : #7367f0;
+    --content-max-width: 150em;
+}
+
+/* .cover:before {
+    background-color: #28c76f;
+} */
+
+.markdown-section {
+    max-width: 95%;
+}
+
+.cover h1 a{
+    white-space: nowrap;
+}
+
+.app-nav {
+    font-size: 16px;
+    font-weight: bolder;
+}
+
+.app-nav ul li a:hover, .app-nav ul li a.active {
+    color: #7367f0!important;
+    cursor: pointer;
+}
+
+.cover-main p img {
+    width: 80%;
+}

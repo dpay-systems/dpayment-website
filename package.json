@@ -1,0 +1,15 @@
+{
+  "name": "dpayment-website",
+  "version": "1.0.0",
+  "description": "Payment Protocol",
+  "main": "index.js",
+  "scripts": {
+    "doc": "docsify serve" 
+  },
+  "author": "hanjiangyanhuo",
+  "repository": "https://github.com/dpay-systems/website",
+  "license": "MIT",
+  "devDependencies": {
+    "docsify-cli": "4.4.3"
+  }
+}
