@@ -7,8 +7,8 @@
 
 
 <div align="center">
-    <a href="https://dpay.systems>
-        <img width="250" src="/logo.png"
+    <a href="https://dpay.systems">
+        <img width="250" src="https://dpay.systems/logo.png"
             alt="DPayment logo" 
             title="Go to dpayment's docs site">
     </a>
